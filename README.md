@@ -1,4 +1,9 @@
-# Deep Learning Assignments with TensorFlow & TensorBoard
+# Home Assignment 1
+
+## Student Information
+- **Name:** Bharadwaj Ketham  
+- **ID:** 700759639 
+- **Course:** CS5720 Neural network and Deep learning, CRN23848
 
 ## Overview
 This repository contains four deep learning assignments implemented using TensorFlow. The tasks include tensor manipulations, loss function comparisons, training models with different optimizers, and logging training progress using TensorBoard.
@@ -64,11 +69,6 @@ TensorBoard was used to monitor the training process and analyze loss and accura
 - Signs of overfitting by comparing loss trends.
 - The impact of increasing the number of training epochs on model performance.
 
-## Student Information
-- **Name:** Bharadwaj Ketham  
-- **ID:** 700759639 
-- **Course:** CS5720 Neural network and Deep learning, CRN23848
-- **Assignment:** Home Assignment -1 
 
 ## Dependencies
 - TensorFlow  
